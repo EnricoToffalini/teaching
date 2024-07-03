@@ -11,9 +11,17 @@ This webpage is a collection of resources (links, slides, data, and R code) for 
 
 ## Slides
 
-- [Introduction to meta-analysis](https://stat-teaching.github.io/metasimulation/slides/02-intro-meta-analysis/intro-meta-analysis.html#/title-slide) (by Gambarota & Altoè)
+- Understanding effect sizes: from [simple (correlations, cohen's d)](https://www.memoryandlearninglab.it/wp-content/uploads/2024/02/Intro-effect-size4.html) to [complex (mixed models, glm/glmer)](https://www.memoryandlearninglab.it/wp-content/uploads/2024/02/Lmer-and-glm-effect-size2.html)
 
-- [Understanding heterogeneity with examples](materials/Understanding heterogeneity.html)
+- [Understanding the variance of effect sizes](materials/Understanding effect size variance.html)
+
+- [General introduction to meta-analysis](https://stat-teaching.github.io/metasimulation/slides/02-intro-meta-analysis/intro-meta-analysis.html#/title-slide) (by Gambarota & Altoè)
+
+- [Meta-analyzing Correlations: From structuring the dataset to (not actually so) basic analyses](Meta-analysis of correlation-From structuring dataset to basic analyses.html) 
+
+- [Understanding heterogeneity in meta-analysis with examples](materials/Understanding heterogeneity.html)
+
+- [Multilevel models in meta-analysis](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/multilevel-ma.html) (by Harrer)
 
 ---------------------------------------------------
 
@@ -36,7 +44,11 @@ This webpage is a collection of resources (links, slides, data, and R code) for 
 #### Websites
 
 - [`metasimulation`](https://stat-teaching.github.io/metasimulation/): Great series of slides and other resources on meta-analyses and related topics by *Filippo Gambarota* and *Gianmarco Altoè* (University of Padova).
+
+- [Mathias Harrer: Doing Meta-Analysis in R](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/) a fabulous website covering virtually all relevant meta-analysis-related topics in the form of a hands-on guide.
+
 - [`metafor`](https://www.metafor-project.org/doku.php/metafor): website of reference for the famous `metafor` package, with lots of examples, pages, and code.
+
 - [`Viechtbauer`](https://www.wvbauer.com/doku.php/home): personal website of *Wolfgang Viechtbauer* (i.e., the mythological creator of the "metafor" package)
 
 #### Github repositories
