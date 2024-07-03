@@ -1,0 +1,31 @@
+---
+title: "Current teaching: META-ANALYSIS IN R"
+subtitle: "07-08-2024"
+---
+
+---------------------------------------------------
+
+## Resources
+
+#### Books
+
+- Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein, H. R. (2009). Introduction to Meta-Analysis. [`https://doi.org/10.1002/9780470743386`](https://doi.org/10.1002/9780470743386)
+
+#### Websites
+
+- [`metasimulation`](https://stat-teaching.github.io/metasimulation/): Great series of slides and other resources on meta-analyses and related topics by Filippo Gambarota and Gianmarco Altoè (University of Padova).
+- [`metafor`](https://www.metafor-project.org/doku.php/metafor): website of reference for the famous `metafor` package, with lots of examples, pages, and code.
+
+#### Github repository
+
+- [`metasimulation github repo`](https://github.com/stat-teaching/metasimulation): all materials for the above "metasimulation" website (by Gambarota & Altoè)
+
+---------------------------------------------------
+
+## Slides
+
+---------------------------------------------------
+
+## Exercises
+
+---------------------------------------------------
