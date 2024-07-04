@@ -17,9 +17,11 @@ This webpage is a collection of resources (links, slides, data, and R code) for 
 
 - [General introduction to meta-analysis](https://stat-teaching.github.io/metasimulation/slides/02-intro-meta-analysis/intro-meta-analysis.html#/title-slide) (by Gambarota & Altoè)
 
-- [Meta-analyzing Correlations: From structuring the dataset to (not actually so) basic analyses](Meta-analysis of correlation-From structuring dataset to basic analyses.html) 
-
 - [Understanding heterogeneity in meta-analysis with examples](materials/Understanding heterogeneity.html)
+
+- [Meta-analyzing Correlations: From structuring the dataset to (not actually so) basic analyses](materials/Meta-analysis of correlation-From structuring dataset to basic analyses.html) 
+
+- [Meta-analyzing SMD / Cohen's d: From structuring the dataset to (not actually so) basic analyses](materials/Meta-analysis of Cohens d-From structuring dataset to basic analyses.html) 
 
 - [Multilevel models in meta-analysis](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/multilevel-ma.html) (by Harrer)
 
